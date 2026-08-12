@@ -1,0 +1,2 @@
+# optional PDF skim
+# pypdf>=4.0

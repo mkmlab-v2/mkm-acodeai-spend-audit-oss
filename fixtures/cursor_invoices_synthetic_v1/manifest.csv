@@ -1,0 +1,5 @@
+Date,Invoice ID,Description,Status,Amount,Currency,File
+2026-04-05,in_synth_001,Cursor Usage for cycle starting March 4 2026,paid,0.00,USD,
+2026-05-05,in_synth_002,Cursor Usage for cycle starting April 4 2026,paid,0.00,USD,
+2026-06-05,in_synth_003,Cursor Usage for cycle starting May 4 2026,paid,0.00,USD
+2025-07-19,in_synth_004,Cursor Pro annual,paid,192.00,USD,

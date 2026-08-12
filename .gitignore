@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.env
+.env.*
+data/private/
+*.pdf
+docs/final/artifacts/*.json
+docs/final/artifacts/*.md
+reports/human_paste/*
+!docs/final/artifacts/.gitkeep
+!reports/human_paste/.gitkeep
+!fixtures/**/*.csv
+!fixtures/**/*.json
